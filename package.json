@@ -1,6 +1,6 @@
 {
   "name": "canihazether",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Find Ether on known Ethereum Networks.",
   "main": "src/canihazether.js",
   "scripts": {

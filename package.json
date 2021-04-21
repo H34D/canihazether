@@ -23,7 +23,7 @@
     "type": "git"
   },
   "dependencies": {
-    "@ethereum-navigator/atlas": "~0.7.0",
+    "@ethereum-navigator/atlas": "~0.7.2",
     "chalk-animation": "^1.6.0",
     "web3": "^1.2.7",
     "yargs": "^14.2.3"
